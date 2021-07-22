@@ -144,4 +144,4 @@ EMAIL_HOST_PASSWORD = 'Emailtest1234$'
 # EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER ')
 # EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 # EMAIL_HOST_USER = 'abdouksene@gmail.com'
-# EMAIL_HOST_PASSWORD = 'famata123'
+# EMAIL_HOST_PASSWORD = ''
